@@ -124,4 +124,4 @@ Submit issues or pull requests on [GitHub](https://github.com/Devdas-gupta/YouTu
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
-Devdas Gupta | [Your GitHub Profile](https://github.com/Devdas-gupta)
+Devdas Gupta | [GitHub Profile](https://github.com/Devdas-gupta)
